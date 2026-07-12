@@ -59,7 +59,7 @@ calculator.exe
 
 ## 📸 Output
 
-Add a screenshot of your program inside the `screenshots` folder and update this section.
+<img width="650" height="426" alt="image" src="https://github.com/user-attachments/assets/12d46c90-98cf-4213-83f7-eacf9bfd528c" />
 
 ```
 screenshots/output.png
